@@ -4,7 +4,8 @@ gem "slim"
 gem "sass"
 gem "dm-core"
 gem "bootstrap"
-gem"dm-migrations"
+gem "dm-migrations"
+gem "heroku"
 
 gem "thin"
 
