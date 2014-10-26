@@ -74,7 +74,7 @@ DEPENDENCIES
   heroku
   pg
   sass
-  sinatra
+  sinatra (= 1.4.5)
   slim
   thin
-  tilt (= 1.4.1)
+  tilt
